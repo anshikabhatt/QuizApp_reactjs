@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Who wrote the famous novel To Kill a Mockingbird?",
+      option1: "Harper Lee",
+      option2: "J.K. Rowling",
+      option3: "Ernest Hemingway",
+      option4: "F. Scott Fitzgerald",
+      ans: 1,
+    },
+    {
+      question: "What is the chemical symbol for gold?",
+      option1: "Au",
+      option2: "Ag",
+      option3: "Fe",
+      option4: "Cu",
+      ans: 1,
+    },
+    {
+      question: "Which planet is known as the Red Planet?",
+      option1: "Mars",
+      option2: "Venus",
+      option3: "Jupiter",
+      option4: "Saturn",
+      ans: 1,
+    },
+    {
+      question: "A computer cannot BOOT if it does not have the?",
+      option1: "Application Software",
+      option2: "Internet",
+      option3: "Operating System",
+      option4: "Mouse",
+      ans: 3,
+    },
+    {
+      question: "What is the capital city of Canada?",
+      option1: "Toronto",
+      option2: "Vancouver",
+      option3: "Montreal",
+      option4: "Ottawa",
+      ans: 4,
+    },
+  ];
